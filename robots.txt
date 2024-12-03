@@ -10,6 +10,8 @@ Disallow: /backup/
 Disallow: /cgi-bin/
 Disallow: /search/
 Disallow: /scripts/
+Disallow: http://makeitbasic.com/
+Disallow: http://www.makeitbasic.com/
 
 # Prevent indexing of URLs with query strings
 Disallow: /*?*
