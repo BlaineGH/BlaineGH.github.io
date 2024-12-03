@@ -12,6 +12,7 @@ Disallow: /search/
 Disallow: /scripts/
 Disallow: http://makeitbasic.com/
 Disallow: http://www.makeitbasic.com/
+Disallow: https://makeitbasic.com/
 
 # Prevent indexing of URLs with query strings
 Disallow: /*?*
