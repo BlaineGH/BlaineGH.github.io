@@ -6,4 +6,4 @@ Disallow: /backup/
 
 Allow: /
 
-Sitemap: https://makeitbasic.com/sitemap.xml
+Sitemap: https://www.makeitbasic.com/sitemap.xml
