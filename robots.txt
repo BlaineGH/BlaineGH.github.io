@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /temp/
+Disallow: /backup/
+
+Allow: /
+
+Sitemap: https://makeitbasic.com/sitemap.xml
