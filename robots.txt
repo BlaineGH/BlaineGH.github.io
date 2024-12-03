@@ -1,9 +1,31 @@
+# robots.txt file for makeitbasic.com
+
+# General rules for all crawlers
 User-agent: *
+# Block private or irrelevant directories to optimize crawl budget
 Disallow: /admin/
 Disallow: /config/
 Disallow: /temp/
 Disallow: /backup/
+Disallow: /cgi-bin/
+Disallow: /search/
+Disallow: /scripts/
 
-Allow: /
+# Prevent indexing of URLs with query strings
+Disallow: /*?*
 
+# Allow crawlers access to necessary resources
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Sitemap location for improved indexing
 Sitemap: https://www.makeitbasic.com/sitemap.xml
+
+# Set a crawl-delay to prevent server overload (optional)
+User-agent: *
+Crawl-delay: 10
+
+# Block specific crawlers if needed
+
