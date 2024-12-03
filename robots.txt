@@ -22,9 +22,6 @@ Allow: /images/
 
 # Sitemap location for improved indexing
 Sitemap: https://www.makeitbasic.com/sitemap.xml
-Sitemap: https://makeitbasic.com/sitemap.xml
-Sitemap: http://makeitbasic.com/sitemap.xml
-Sitemap: http://www.makeitbasic.com/sitemap.xml
 
 # Set a crawl-delay to prevent server overload (optional)
 User-agent: *
