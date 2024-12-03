@@ -27,8 +27,7 @@ Allow: /images/
 Sitemap: https://www.makeitbasic.com/sitemap.xml
 
 # Set a crawl-delay to prevent server overload (optional)
-User-agent: *
-Crawl-delay: 10
+
 
 # Block specific crawlers if needed
 
