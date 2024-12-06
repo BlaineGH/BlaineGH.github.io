@@ -26,7 +26,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 #header{
-	background-color: #060e1b;
+	background-color: #0a101e;
 	border-bottom: #ffffff;
 	border-width: 0px 0px 1px 0px;
 	border-style: solid;
@@ -2788,7 +2788,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 2em 0 1em 0 ;
-		background-color: #060e1b;
+		background-color: #0a101e;
 	}
 
 		#footer > .inner {
